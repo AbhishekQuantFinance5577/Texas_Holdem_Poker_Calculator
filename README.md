@@ -3,7 +3,7 @@ This project creates a Python calculator to determine the odds of achieving spec
 
 
 Project Description: Poker Odds Calculator for Texas Hold 'Em
-This project involves creating a Python-based calculator to determine the probability of achieving specific hands in Texas Hold 'Em poker after the flop. The calculator generates random two-card hands and calculates the odds of obtaining the following hands after the flop: Four of a Kind, Three of a Kind, Two Pair (using both cards), Flush, and Full House (using both cards).
+This project involves creating a excel-based calculator to determine the probability of achieving specific hands in Texas Hold 'Em poker after the flop. The calculator generates random two-card hands and calculates the odds of obtaining the following hands after the flop: Four of a Kind, Three of a Kind, Two Pair (using both cards), Flush, and Full House (using both cards).
 
 Steps:
 
